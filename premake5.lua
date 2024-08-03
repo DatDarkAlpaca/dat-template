@@ -10,7 +10,7 @@ workspace "template"
         "Release"
     }
 
-    startproject "turnip-editor"
+    startproject "template"
 
     flags {
 		"MultiProcessorCompile"
