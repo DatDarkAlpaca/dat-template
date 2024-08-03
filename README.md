@@ -1,6 +1,6 @@
-# Premake-Conan Template
+# Dat Template
 
-> This respository is just a simple Premake5 with Conan C++ template.
+> This respository is just a simple Premake5 C++ template.
 
 # Getting Started
 
@@ -11,7 +11,6 @@ This repository uses [Premake 5](https://github.com/premake/premake-core/release
 You'll need to install `python`, `conan` and `premake5` in order to build this project.
 
 * [Python 3](https://www.python.org/downloads/)
-* [Conan 2.0](https://conan.io/downloads)
 * [Premake 5](https://github.com/premake/premake-core/releases)
 
 You may also need to add an environment variable to use `premake5`.
